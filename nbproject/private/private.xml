@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/com/ngodai/qlhv/view/MainJFrame.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>21</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/controller/QuanLyHocVienContrller.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/view/HocVienJFrame.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/controller/TaiKhoanController.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/service/HocVienService.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/model/HocVien.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/service/HocVienServiceImpl.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/dao/ThongKeDAOImpl.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/dao/HocVienDAO.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/view/HocVienJPanel.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/dao/DBConnect.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/model/KhoaHoc.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/view/KhoaHocJFrame.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/model/LopHoc.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/bean/DanhMucBean.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/controller/QuanLyKhoaHocController.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/view/KhoaHocJPanel.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/dao/TaiKhoanDAOImpl.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/main/Main.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/dao/HocVienDAOImpl.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/controller/KhoaHocController.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/controller/ChuyenManHinhControlller.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/view/MainJFrame.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/controller/QuanLyThongKeController.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/bean/KhoaHocBean.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/controller/HocVienController.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/bean/LopHocBean.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/utility/ClassTableModel.java</file>
+            <file>file:/C:/Users/ngoda/Desktop/btlLTNC/QuanLyHocVien/src/com/ngodai/qlhv/dao/KhoaHocDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
